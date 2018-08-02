@@ -19,3 +19,16 @@ you can also run the detection on image or folder of images
 ![5b634be188030](https://i.loli.net/2018/08/03/5b634be188030.png)
 
 https://www.youtube.com/watch?v=3sJEPETVF64
+
+
+
+| CMD Argument | Function                                      |
+| ------------ | --------------------------------------------- |
+| --bs         | Batch Size                                    |
+| --confidence | Object Confidence to filter predictions       |
+| --nms_thresh | NMS Threshhold                                |
+| --cfg        | CFG File                                      |
+| --weights    | Darknet Weights File                          |
+| --reso       | Input resolution of the network (Default 416) |
+| --video      | Video File to process                         |
+| --images     | Image / Directory containing images           |
