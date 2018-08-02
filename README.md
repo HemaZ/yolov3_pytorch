@@ -1,4 +1,4 @@
-## YOLOv3 Implemention using Pytorch
+## YOLOv3 Implementation using Pytorch
 
 Weights and Config files  are Downloaded from Darknet 
 
