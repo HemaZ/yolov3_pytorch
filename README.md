@@ -16,6 +16,6 @@ you can also run the detection on image or folder of images
 
 `python3 detect.py --images inputfolder --det outputFolder`
 
-
-
 ![5b634be188030](https://i.loli.net/2018/08/03/5b634be188030.png)
+
+https://www.youtube.com/watch?v=3sJEPETVF64
