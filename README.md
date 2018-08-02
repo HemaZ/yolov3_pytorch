@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=3sJEPETVF64
 
 
 | CMD Argument | Function                                      |
-| ------------ | --------------------------------------------- |
+|:------------:|:---------------------------------------------:|
 | --bs         | Batch Size                                    |
 | --confidence | Object Confidence to filter predictions       |
 | --nms_thresh | NMS Threshhold                                |
@@ -32,3 +32,23 @@ https://www.youtube.com/watch?v=3sJEPETVF64
 | --reso       | Input resolution of the network (Default 416) |
 | --video      | Video File to process                         |
 | --images     | Image / Directory containing images           |
+
+Special thanks to *Ayoosh Kathuria*
+
+https://blog.paperspace.com/tag/series-yolo/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
